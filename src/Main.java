@@ -1,3 +1,5 @@
+//this program make decision about avarage score and make use of JOptionPane to implement input dialog and message Dialog
+
 import javax.swing.JOptionPane;
 
 public class Main {
